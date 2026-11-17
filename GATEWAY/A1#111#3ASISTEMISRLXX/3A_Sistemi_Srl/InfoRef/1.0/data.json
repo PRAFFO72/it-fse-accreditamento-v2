@@ -1,0 +1,23 @@
+{
+  "appVendor": "3A Sistemi Srl",
+  "appID": "InfoRef",
+  "appVersion": "1.0",
+  "results": [
+    {
+      "id": 448,
+      "ts": "2026-11-13T17:31:09Z",
+      "traceId": "a96e3c6e04d77849da0da7e2a2f79f4f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.3.1.4.4.b5984fc130b1528e9a12aebfcaeaf5a8a0793765bb2119dc79ce2f765040d70b.95af1d7aef^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 32,
+      "ts": "2026-11-13T12:59:54Z",
+      "traceId": "96732b9dfcef5fa83862e67d4e25d9d6"
+    },
+    {
+      "id": 40,
+      "ts": "2026-11-13T12:59:55Z",
+      "traceId": "f19f783d2ee1d313c751fb111615bd79"
+    }
+  ]
+}
